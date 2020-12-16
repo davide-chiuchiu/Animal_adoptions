@@ -6,3 +6,5 @@ datasets/petfinder_mini.zip
 .DS_Store
 
 .ipynb_checkpoints/
+
+logs/
