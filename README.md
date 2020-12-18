@@ -1,6 +1,2 @@
 Animal_adoptions
-This project gives a minimum working example of a classification problem with tensorflow.
-The example classifies animal adoption based on multiple animal parameters and it's based on 
-https://www.tensorflow.org/tutorials/structured_data/feature_columns
-
-The final aim is to have a simple fallback code to use for more complex projects.
+This repository contains the code to produce a simpletensorflow classification model with hyperparameter auto-tuning. The code in here contains a bare-bone minimum on all the fundamental steps needed to build a tensorflow model which predicts which animals will be adopted based on various features. As such, it's a reasonable starting point for more complex projects.
